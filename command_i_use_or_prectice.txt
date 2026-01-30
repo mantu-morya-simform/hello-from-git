@@ -1,0 +1,7 @@
+mkdir hello-form-git                                        //use to create folder
+cd hello-from-git                                           //change the directory
+touch command_i_use_or_practice                             //create a file for write all command i use and what its work 
+echo "for write in file"> fileName                          //echo is use for print in shellscript and also used for insert anything in file 
+git config -- user.name "userName"                          //for configure username with git 
+git config -- user.email "userEmail"                        //for configure userEmail with git 
+git init                                                    //use to initialize the git in the current working directory for tracking and auditing all the things for vcs 
